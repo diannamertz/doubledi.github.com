@@ -73,6 +73,7 @@ ul.portfolio-page {
 .hero-unit {
   border:1px solid #e5e5e5;
   height: 822px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .hero-unit img {
