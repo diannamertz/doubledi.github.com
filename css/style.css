@@ -115,6 +115,7 @@ ul.portfolio-page {
 
 #footer p {
   margin-bottom: 0;
+  font-family: 'Raleway', sans-serif;
 }
 
 @media (max-width: 767px) {
