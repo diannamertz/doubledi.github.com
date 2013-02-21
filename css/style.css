@@ -39,9 +39,9 @@ ul.entries li {
 ul.entries li h3 {
   background: #888888;
   position: absolute;
-  bottom: -10px;
+  /* bottom: -10px;
   left: 10px;
-  font-size: 2em;
+  font-size: 2em; */
 }
 ul.entries a {
   color: #ffffff;
