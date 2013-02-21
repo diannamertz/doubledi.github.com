@@ -41,6 +41,7 @@ ul.entries li h3 {
   bottom: -10px;
   left: 10px;
   font-size: 2em;
+  background: #ffffff;
 }
 ul.entries a {
   color: #ffffff;
