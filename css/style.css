@@ -80,6 +80,7 @@ ul.portfolio-page {
 
 .carousel-control {
   top: 300px;
+  font: "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }
 
 .carousel-inner > .item > img,
