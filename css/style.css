@@ -38,7 +38,8 @@ ul.entries li {
 }
 
 ul.entries li h3 {
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif; */
+  font-family: 'Raleway', sans-serif;
   background: #cccccc;
   position: absolute;
   bottom: -10px;
