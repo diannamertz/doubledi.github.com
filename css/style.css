@@ -44,11 +44,10 @@ ul.entries li h3 {
 }
 ul.entries a {
   color: #88888;
-  opacity: 0.5;
 
 }
 ul.entries a:hover {
-  opacity: 1.0;
+  opacity: 0.8;
 }
 
 .container-fluid {
