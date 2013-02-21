@@ -38,6 +38,7 @@ ul.entries li {
 }
 
 ul.entries li h3 {
+  font-family:font-family: 'Roboto', sans-serif;
   background: #cccccc;
   position: absolute;
   bottom: -10px;
@@ -49,7 +50,7 @@ ul.entries a {
 
 }
 ul.entries a:hover {
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 .container-fluid {
