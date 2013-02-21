@@ -40,6 +40,7 @@ ul.entries li h3 {
   background: #cccccc;
   position: absolute;
   bottom: -10px;
+  margin-right: 2px;
   /*left: 10px;
   font-size: 2em; */
 }
