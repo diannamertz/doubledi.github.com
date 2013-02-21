@@ -37,11 +37,11 @@ ul.entries li {
 }
 
 ul.entries li h3 {
+  background: #888888;
   position: absolute;
   bottom: -10px;
   left: 10px;
   font-size: 2em;
-  background: #888888;
 }
 ul.entries a {
   color: #ffffff;
