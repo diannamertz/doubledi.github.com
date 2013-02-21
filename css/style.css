@@ -8,6 +8,7 @@ body {
   background-image: url("../img/ecailles.png");
   line-height: 20px;
   color #333333;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 a {
@@ -18,6 +19,8 @@ a:hover {
   color: #ececec;
   text-decoration: underline;
 }
+
+
 
 nav ul, ul.entries {
   list-style-type: none;
