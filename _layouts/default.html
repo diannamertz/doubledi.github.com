@@ -1,0 +1,51 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset=utf-8 />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title> {% if page.title %} {{ page.title }} | {% endif %} Dianna Mertz </title>
+      <link rel="stylesheet" href="/css/bootstrap.css" media="screen">
+      <link rel="stylesheet" href="/css/style.css" media="screen">
+    </head>
+    <body>
+      <div id="wrap">
+        <div class="container-fluid">
+          <div class="row-fluid"> 
+            <nav role="navigation">
+              <ul>
+                <li><a href="http://www.linkedin.com/pub/dianna-mertz/5a/112/3bb"> <img src="/img/icon-in.png"></a></li>
+                <li><a href="https://github.com/doubledi?tab=repositories"> <img src="/img/icon-github.png"></a></li>
+                <li><a href="mailto:diannamertz@gmail.com" target="_top" title="E-mail me!"> <img src="/img/icon-contact.png" alt="E-mail me!"></a></li>
+                <li><a href="#myModal" role="btn" data-toggle="modal"> <img src="/img/icon-info.png"></a></li>
+                <li><a href="/index.html"><h1>Logo</h1></a></li>
+              </ul>
+            </nav>
+          </div> <!--row-fluid-->
+          <!-- Modal -->
+          <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="myModalLabel">About doubledi</h3>
+            </div>
+            <div class="modal-body">
+              <p>web & mobile design & development</p>
+            </div>
+            <div class="modal-footer">
+              <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+              <button class="btn btn-primary">Contact</button>
+            </div>
+          </div>
+          {{ content }}
+        </div> <!--container-->
+        <div id="push"></div>
+      </div><!--wrap-->
+      <div id="footer">
+        <div class="container">
+          <p>&copy; Dianna Mertz 2013 | All Rights Reserved.</p>
+        </div>
+      </div> <!--footer-->
+      <script src="http://code.jquery.com/jquery.js"></script>
+      <script src="/js/bootstrap.min.js"></script>
+      <script src="/js/script.js"></script>
+    </body>
+    </html>

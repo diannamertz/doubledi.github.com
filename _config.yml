@@ -1,0 +1,32 @@
+server: true
+
+# Name of your blog (this will show up in the RSS feed)
+name: Dianna Mertz
+
+# Short description (will also be used in the RSS feed)
+description: Interface Design Portfolio Site
+
+# Uncomment if you are planning to run the blog in a subdirectory
+# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
+# Example, you must use http://localhost:4000/path/to/blog
+#production_url: http://www.doubledi.com
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+#production_url: http://www.doubledi.com
+url: http://www.doubledi.com
+redirects: yes 
+#baseurl: /doubledi
+
+# Continue compiling even if there are errors. Keep it true, unless troubleshooting.
+auto: true
+
+permalink: none
+
+analytics :
+    provider : google 
+    google : 
+        tracking_id : ''
+    getclicky :
+      site_id : 
+    mixpanel :
+        token : ''

@@ -1,0 +1,123 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  /* http://subtlepatterns.com/ */
+  background-image: url("../img/ecailles.png");
+  line-height: 20px;
+  color #333333;
+}
+
+a {
+  color: #ccc;
+}
+
+a:hover {
+  color: #ececec;
+  text-decoration: underline;
+}
+
+nav ul, ul.entries {
+  list-style-type: none;
+}
+
+nav li a {
+  position: relative;
+  float: right;
+  padding: 5px;
+}
+
+ul.entries li {
+  position: relative; 
+  margin: 20px auto 20px 20px;
+  padding: 5px;
+  background: #888888;
+}
+
+ul.entries li h3 {
+  position: absolute;
+  bottom: -10px;
+  left: 10px;
+  font-size: 2em;
+}
+ul.entries a {
+  color: #88888;
+  opacity: 0.5;
+
+}
+ul.entries a:hover {
+  opacity: 1.0;
+}
+
+.container-fluid {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+ul li.span6:nth-child(3) {
+  margin-left: 0px;
+}
+
+ul.portfolio-page {
+  margin: 0 0 10px 0px;
+}
+
+.space {
+  margin-top: 50px;
+}
+
+.hero-unit {
+  border:1px solid #e5e5e5;
+  height: 822px;
+}
+
+.hero-unit img {
+  /* margin: ; */
+}
+
+.carousel-control {
+  top: 300px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  margin: auto;
+}
+
+.carousel-indicators li {
+  background-color: rgba(200,200,200,1);
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -60px
+}
+
+#push, #footer {
+  height: 60px;
+}
+
+#footer {
+  text-align: center;
+  padding:30px 0;
+  border-top:1px solid #e5e5e5;
+  background-color: black;
+  color: #eeeeee;
+}
+
+#footer p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  #footer {
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
