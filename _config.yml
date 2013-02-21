@@ -25,8 +25,5 @@ permalink: none
 analytics :
     provider : google 
     google : 
-        tracking_id : ''
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : ''
+        tracking_id : 'UA-38704004-1'
+ 
