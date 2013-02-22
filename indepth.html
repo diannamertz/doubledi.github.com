@@ -10,7 +10,8 @@ title: In-Depth Smart Containers
   Heard Here is a music player...
 </div>
 <div class="span7 hero-unit">
-      <ol class="carousel-indicators">
+  <div id="myCarousel" class="carousel slide">
+    <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
@@ -18,8 +19,8 @@ title: In-Depth Smart Containers
       <li data-target="#myCarousel" data-slide-to="4"></li>
       <li data-target="#myCarousel" data-slide-to="5"></li>
     </ol>
-  <div id="myCarousel" class="carousel slide">
     <!-- Carousel items -->
+    <div>
     <div class="carousel-inner">
       <div class="active item"><img src="{{ site.baseurl }}/img/heardhere01.png" /></div>
       <div class="item"><img src="{{ site.baseurl }}/img/heardhere02.png"/></div>
@@ -32,5 +33,6 @@ title: In-Depth Smart Containers
   <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
   <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
   </div>
+</div>
 </div>
 </div>
