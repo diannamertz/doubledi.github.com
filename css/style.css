@@ -54,8 +54,11 @@ ul.entries a:hover {
 }
 
 .container-fluid {
-  padding-right: 40px;
+  /*padding-right: 40px;
   padding-left: 40px;
+  */
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
 ul li.span6:nth-child(3) {
