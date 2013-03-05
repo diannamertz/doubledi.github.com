@@ -55,7 +55,7 @@ ul.entries a {
 
 }
 ul.entries a:hover {
-  opacity: 0.5;
+  /*opacity: 0.5; */
 }
 
 .container-fluid {
@@ -162,5 +162,5 @@ ul.portfolio-page {
   margin: 0;
   padding: 0;
   display: block;
-  
+
 }
