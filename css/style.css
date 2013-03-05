@@ -134,3 +134,33 @@ ul.portfolio-page {
     padding-right: 20px;
   }
 }
+
+.ddinfo {
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  background: rgba(68,68,68,0.85);
+}
+
+.ddinfotext {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 28px;
+  margin-top: -12px;
+  text-align: center;
+  font-size: 1.3em;
+  line-height: 28px;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 1px 1px 0px #333;
+  margin: 0;
+  padding: 0;
+  display: block;
+  
+}
