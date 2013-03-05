@@ -41,7 +41,8 @@ ul.entries li {
 
 ul.entries li h3 {
   font-family: 'Raleway', sans-serif;
-  background: #cccccc;
+  background: #ffffff;
+  opacity: 0.5;
   position: absolute;
   bottom: -10px;
   padding-right: 6px;
