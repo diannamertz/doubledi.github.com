@@ -43,6 +43,7 @@ ul.entries li {
 }
 
 ul.entries li > .dditle {
+  margin-top: -11px;
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
