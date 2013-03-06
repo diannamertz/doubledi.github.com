@@ -62,19 +62,19 @@ ul.entries li {
   left: 0;
 }
 
-ul.entries li:hover > .dditle {
+.grid-item:hover > .dditle {
   display: none;
 }
 
-ul.entries li .dditle span {
+.grid-item .dditle span {
   padding: 10px;
   background: white;
   display: inline-block;
 }
 
-ul.entries li .overlay {
-  height: 100%;
-  width: 100%; 
+.grid-item .overlay {
+  height: 270px;
+  width: 270px; 
   padding: 25px;
   background: rgba(0,0,0,0.7);
   display: table-cell;
@@ -87,27 +87,17 @@ ul.entries li .overlay {
   text-transform: uppercase;
 }
 
-ul.entries li:hover .overlay {
+.grid-item:hover .overlay {
   opacity:1;
 }
 
-ul.entries li .overlay .dditle {
+.grid-item .overlay .dditle {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
 }
 
-ul.entries li:hover .overlay {
-  opacity: 1.0;
-}
-
-ul.entries li .overlay .dditle {
-  font-size: 22px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #F4F5F0;
-}
-
-ul.entries li .overlay span {
+.grid-item .overlay span {
   white-space: nowrap;
 }
 
