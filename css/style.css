@@ -30,13 +30,17 @@ nav li a {
   padding: 5px;
 }
 
+/* 
+ * Main Grid View
+ */
+
 ul.entries li {
   position: relative; 
   margin: 20px auto 20px 20px;
-  opacity: 1.0;
+  /*opacity: 1.0; */
 }
 
-ul.entries li h3 {
+ul.entries li > .title {
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
@@ -53,7 +57,7 @@ ul.entries li h3 {
   display: block;
 }
 
-ul.entries:hover  {
+ul.entries li hover > .title {
   display: none;
 }
 
@@ -61,7 +65,6 @@ ul.entries li h3 span {
   padding: 10px;
   background: white;
   display: inline-block;
-  /*max-width: 260px; */
   color: #49565C;
   text-align: center 
 }
