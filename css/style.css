@@ -40,13 +40,13 @@ ul.entries li {
 
 ul.entries li h3 {
   font-family: 'Raleway', sans-serif;
-  /*background: #ffffff;
+  background: #ffffff;
   opacity: 0.5; 
   position: absolute;
   bottom: -10px;
   padding-right: 6px;
   line-height: 1.3;
-  */
+  
   margin-top: -11px;
   font-size: 22px;
   line-height: 22px;
