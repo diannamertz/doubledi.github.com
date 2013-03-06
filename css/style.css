@@ -42,7 +42,7 @@ ul.entries li {
   float: left;
 }
 
-.dditle {
+.dditle h3{
   margin-top: -11px;
   font-family: 'Raleway', sans-serif;
   position: absolute;
