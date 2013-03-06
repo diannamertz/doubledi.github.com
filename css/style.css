@@ -53,7 +53,7 @@ ul.entries li h3 {
   display: block;
 }
 
-.title:hover h3 {
+ul.entries, .title:hover {
   display: none;
 }
 
