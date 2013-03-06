@@ -40,24 +40,23 @@ ul.entries li {
 
 ul.entries li h3 {
   font-family: 'Raleway', sans-serif;
-  background: #ffffff;
-  opacity: 0.5; 
   position: absolute;
-  bottom: -10px;
+  /*background: #ffffff;
+    bottom: -10px;
   padding-right: 6px;
   line-height: 1.3;
-  
+  opacity: 0.5; */
+
   margin-top: -11px;
   font-size: 22px;
   line-height: 22px;
   text-transform: uppercase;
   color: #49565C;
-  position: absolute;
-  z-index: 10;
+  /*z-index: 10; */
   width: 320px; 
   text-align: center;
   top: 50%;
-  left: 0;
+  /*left: 0; */
   letter-spacing: 1.5px;
 }
 
@@ -79,9 +78,6 @@ ul.entries a:hover {
 }
 
 .container-fluid {
-  /*padding-right: 40px;
-  padding-left: 40px;
-  */
   padding-right: 2%;
   padding-left: 2%;
 }
