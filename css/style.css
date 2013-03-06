@@ -39,7 +39,7 @@ ul.entries li {
   margin: 20px auto 20px 20px;
 }
 
-ul.entries li h3 {
+ul.entries li > .dditle {
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
