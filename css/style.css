@@ -36,7 +36,7 @@ ul.entries li {
   opacity: 1.0;
 }
 
-ul.entries li h3 {
+ul.entries li > .title {
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
@@ -61,9 +61,6 @@ ul.entries li h3 span {
   color: #49565C;
   text-align: center 
 }
-
-
-
 
 ul.entries a {
   color: #ffffff;
