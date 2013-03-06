@@ -60,7 +60,7 @@ ul.entries li hover > .dditle {
   display: none;
 }
 
-ul.entries li h3 span {
+ul.entries li .dditle span {
   padding: 10px;
   background: white;
   display: inline-block;
