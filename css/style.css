@@ -89,17 +89,6 @@ ul.entries li .overlay .dditle {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
-  
-  margin: 0;
-  padding: 0;
-  line-height: 1.2;
-  font-weight: normal;
-  display: block;
-  color: #F4F5F0;
-  background: #49565C;
-  text-align: center;
-  cursor: auto;
-  
 }
 
 ul.entries li:hover .overlay {
