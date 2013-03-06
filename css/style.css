@@ -34,20 +34,20 @@ nav li a {
  * Main Grid View
  */
 
-.grid-item {
-  position: relative;
-  text-align: center;
-  overflow: hidden;
-  float: left;
-  margin: 0 0 20px 0;
- }
-
 ul.entries li {
   position: relative; 
   margin: 20px auto 20px 20px;
 }
 
-.dditle {
+.grid-item {
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+  float: left;
+  /*margin: 0 0 20px 0; */
+ }
+
+.grid-item > .dditle {
   margin-top: -11px;
   font-family: 'Raleway', sans-serif;
   position: absolute;
@@ -60,9 +60,6 @@ ul.entries li {
   text-align: center;
   top: 40%; 
   left: 0;
-  margin: 0;
-  padding: 0;
-  display: block;
 }
 
 ul.entries li:hover > .dditle {
