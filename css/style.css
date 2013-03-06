@@ -72,7 +72,7 @@ ul.entries a {
 ul.entries a:hover {
   height: 100%;
   width: 100%
-  padding: 25px;
+  padding: 25px; 
   background: rgba(0,0,0,0.7);
   display: table-cell;
   vertical-align: middle;
@@ -83,6 +83,7 @@ ul.entries a:hover {
   font-size: 12px;
   text-transform: uppercase;
 }
+
 
 .overlay {
   height: 100%;
