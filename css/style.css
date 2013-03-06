@@ -61,7 +61,7 @@ ul.entries li h3 {
 }
 
 ul.entries li h3 span {
-  /*padding: 10px;*/
+  padding: 10px;
   background: white;
   display: inline-block;
   max-width: 260px;
