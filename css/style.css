@@ -65,15 +65,8 @@ ul.entries li h3 span {
   color: #49565C;
   text-align: center 
 }
-/*
-ul.entries a {
-  color: #ffffff;
-  background-color: rgba(68,68,68,0.85098);
-  z-index: 1;
-}
-*/
 
-.overlay {
+ul.entries li > .overlay {
   height: 100%;
   width: 100%
   padding: 25px;
@@ -88,7 +81,7 @@ ul.entries a {
   text-transform: uppercase;
 }
 
-.overlay h2 {
+ul.entries li > .overlay h2 {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
@@ -103,7 +96,7 @@ ul.entries a {
   cursor: auto;
 }
 
-.overlay hover {
+ul.entries li > .overlay hover {
   opacity: 1.0;
 }
 
