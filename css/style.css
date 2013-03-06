@@ -72,23 +72,6 @@ ul.entries a {
   z-index: 1;
 }
 
-ul.entries a:hover {
-  opacity: 0;
-  /*
-  height: 100%;
-  width: 100%
-  display: table-cell;
-  vertical-align: middle;
-  position: relative;
-  z-index: 20;
-  color: #F4F5F0;
-  opacity: 0;
-  font-size: 12px;
-  text-transform: uppercase;
-  */
-}
-
-
 .overlay {
   height: 100%;
   width: 100%
