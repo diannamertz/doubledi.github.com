@@ -74,6 +74,8 @@ ul.entries a {
 }
 
 ul.entries a:hover {
+  opacity: 0;
+  /*
   height: 100%;
   width: 100%
   display: table-cell;
@@ -84,6 +86,7 @@ ul.entries a:hover {
   opacity: 0;
   font-size: 12px;
   text-transform: uppercase;
+  */
 }
 
 /*
