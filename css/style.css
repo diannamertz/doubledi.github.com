@@ -50,7 +50,7 @@ ul.entries > .title h3 {
   line-height: 22px;
   text-transform: uppercase;
   color: #49565C;
-  position: absolute;
+  /*position: relative; */
   z-index: 10;
   width: 320px;
   text-align: center;
