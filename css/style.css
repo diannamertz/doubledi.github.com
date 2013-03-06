@@ -36,7 +36,6 @@ ul.entries li {
   opacity: 1.0;
   /*padding: 5px;
   background: #cccccc; */
-  
 }
 
 ul.entries li h3 {
@@ -61,6 +60,7 @@ ul.entries li h3 {
   left: 0;
   letter-spaceing: 1.5px;
 }
+
 ul.entries li h3 span {
   padding: 10px;
   background: white;
