@@ -113,7 +113,8 @@ ul.portfolio-page {
 }
 
 .carousel-indicators li {
-  background-color: rgba(200,200,200,1);
+  /*background-color: rgba(200,200,200,1); */
+  background-color: #49565C;
 }
 
 #wrap {
