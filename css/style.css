@@ -62,7 +62,11 @@ ul.entries li h3 span {
   text-align: center 
 }
 
+ul.entries li span, a {
+  -webkit-transition: color 0.5s;
+}
 
+/*
 ul.entries a {
   color: #ffffff;
   background-color: rgba(68,68,68,0.85098);
@@ -83,7 +87,7 @@ ul.entries a:hover {
   font-size: 12px;
   text-transform: uppercase;
 }
-
+*/
 
 .overlay {
   height: 100%;
