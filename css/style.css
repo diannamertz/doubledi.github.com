@@ -81,7 +81,7 @@ ul.entries li > .overlay {
   text-transform: uppercase;
 }
 
-ul.entries li > .overlay h2 {
+ul.entries li .overlay h2 {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
@@ -96,7 +96,7 @@ ul.entries li > .overlay h2 {
   cursor: auto;
 }
 
-ul.entries li > .overlay hover {
+ul.entries li:hover .overlay {
   opacity: 1.0;
 }
 
