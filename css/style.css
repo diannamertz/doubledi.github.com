@@ -48,7 +48,7 @@ ul.entries li h3 {
   z-index: 10;
   width: 100%;
   text-align: center;
-  top: 50%; 
+  top: 40%; 
   left: 0;
   margin: 0;
   padding: 0;
@@ -56,7 +56,7 @@ ul.entries li h3 {
 }
 
 ul.entries li h3 span {
-  padding: 5px;
+  padding: 10px;
   background: white;
   display: inline-block;
   /*max-width: 260px; */
