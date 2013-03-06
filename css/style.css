@@ -42,7 +42,7 @@ ul.entries li {
   float: left;
 }
 
-ul.entries li > .dditle {
+.dditle {
   margin-top: -11px;
   font-family: 'Raleway', sans-serif;
   position: absolute;
