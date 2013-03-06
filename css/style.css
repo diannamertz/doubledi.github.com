@@ -65,12 +65,13 @@ ul.entries li h3 span {
   color: #49565C;
   text-align: center 
 }
-
+/*
 ul.entries a {
   color: #ffffff;
   background-color: rgba(68,68,68,0.85098);
   z-index: 1;
 }
+*/
 
 .overlay {
   height: 100%;
