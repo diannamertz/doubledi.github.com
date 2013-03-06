@@ -34,11 +34,9 @@ ul.entries li {
   position: relative; 
   margin: 20px auto 20px 20px;
   opacity: 1.0;
-  /*padding: 5px;
-  background: #cccccc; */
 }
 
-ul.entries li h3 {
+ul.entries li h3 span {
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
@@ -53,9 +51,7 @@ ul.entries li h3 {
   margin: 0;
   padding: 0;
   display: block;
-}
 
-ul.entries li h3 span {
   padding: 10px;
   background: white;
   display: inline-block;
@@ -63,6 +59,16 @@ ul.entries li h3 span {
   color: #49565C;
   text-align: center
 }
+
+ul.entries li h3 span {
+  /* padding: 10px;
+  background: white;
+  display: inline-block; */
+  /*max-width: 260px; */
+  /* color: #49565C;
+  text-align: center */
+}
+
 
 ul.entries a {
   /*
