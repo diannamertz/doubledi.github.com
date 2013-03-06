@@ -57,10 +57,6 @@ ul.entries li h3 {
   display: block;
 }
 
-ul.entries > .title h3 {
-
-}
-
 ul.entries li h3 span {
   padding: 10px;
   background: white;
