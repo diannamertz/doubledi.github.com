@@ -70,7 +70,18 @@ ul.entries a {
 }
 
 ul.entries a:hover {
-  /*opacity: 0.5; */
+  height: 100%;
+  width: 100%
+  padding: 25px;
+  background: rgba(0,0,0,0.7);
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  z-index: 20;
+  color: #F4F5F0;
+  opacity: 0;
+  font-size: 12px;
+  text-transform: uppercase;
 }
 
 .overlay {
