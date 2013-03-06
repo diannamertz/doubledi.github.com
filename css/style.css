@@ -51,22 +51,15 @@ ul.entries li h3 span {
   margin: 0;
   padding: 0;
   display: block;
+}
 
+ul.entries li h3 span {
   padding: 10px;
   background: white;
   display: inline-block;
   /*max-width: 260px; */
   color: #49565C;
-  text-align: center
-}
-
-ul.entries li h3 span {
-  /* padding: 10px;
-  background: white;
-  display: inline-block; */
-  /*max-width: 260px; */
-  /* color: #49565C;
-  text-align: center */
+  text-align: center 
 }
 
 
