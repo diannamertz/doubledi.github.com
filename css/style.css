@@ -66,6 +66,7 @@ ul.entries li h3 span {
   display: inline-block;
   max-width: 260px;
   color: #49565C;
+  text-align: center
 }
 
 ul.entries a {
