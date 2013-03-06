@@ -65,9 +65,11 @@ ul.entries li h3 span {
 }
 
 ul.entries a {
+  /*
   color: #ffffff;
   background-color: rgba(68,68,68,0.85098);
   z-index: 1;
+  */
 }
 
 ul.entries a:hover {
