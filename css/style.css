@@ -63,7 +63,7 @@ ul.entries li {
 }
 
 .grid-item:hover > .dditle {
-  display: none;
+    display: none;
 }
 
 .grid-item .dditle span {
