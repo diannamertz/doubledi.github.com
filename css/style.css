@@ -47,7 +47,7 @@ ul.entries li {
   /*margin: 0 0 20px 0; */
  }
 
-.grid-item > .dditle {
+.grid-item h3 {
   margin-top: -11px;
   font-family: 'Raleway', sans-serif;
   position: absolute;
