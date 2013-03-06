@@ -48,7 +48,7 @@ ul.entries li h3 {
   color: #49565C;
   /*position: relative; */
   z-index: 10;
-  width: 320px;
+  width: 100%;
   text-align: center;
   top: 50%;
   left: 0;
