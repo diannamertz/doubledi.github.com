@@ -53,7 +53,7 @@ ul.entries li h3 {
   display: block;
 }
 
-ul.entries, .title:hover li h3 {
+ul.entries:hover li h3 {
   display: none;
 }
 
@@ -96,7 +96,7 @@ ul.entries li .overlay h2 {
   cursor: auto;
 }
 
-ul.entries li:hover .overlay {
+ul.entries li:hover .overlay hover {
   opacity: 1.0;
 }
 
