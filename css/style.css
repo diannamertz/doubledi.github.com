@@ -41,7 +41,7 @@ ul.entries li {
 ul.entries li h3 {
   font-family: 'Raleway', sans-serif;
   position: absolute;
-  margin-top: -11px;
+  margin-top: 50%;
   font-size: 22px;
   line-height: 22px;
   text-transform: uppercase;
