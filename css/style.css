@@ -37,10 +37,9 @@ nav li a {
 ul.entries li {
   position: relative; 
   margin: 20px auto 20px 20px;
-  /*opacity: 1.0; */
 }
 
-ul.entries li > .title {
+ul.entries li h3{
   font-family: 'Raleway', sans-serif;
   position: absolute;
   font-size: 22px;
