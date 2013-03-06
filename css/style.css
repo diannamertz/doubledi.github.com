@@ -62,9 +62,7 @@ ul.entries li h3 span {
   text-align: center 
 }
 
-ul.entries li span, a {
-  -webkit-transition: color 0.5s;
-}
+
 
 
 ul.entries a {
