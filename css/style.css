@@ -56,7 +56,7 @@ ul.entries li > .dditle {
   display: block;
 }
 
-ul.entries li hover > .dditle {
+ul.entries li:hover > .dditle {
   display: none;
 }
 
@@ -64,13 +64,11 @@ ul.entries li .dditle span {
   padding: 10px;
   background: white;
   display: inline-block;
-  color: #49565C;
-  text-align: center 
 }
 
 ul.entries li > .overlay {
   height: 100%;
-  width: 100%
+  width: 100%;
   padding: 25px;
   background: rgba(0,0,0,0.7);
   display: table-cell;
@@ -83,10 +81,15 @@ ul.entries li > .overlay {
   text-transform: uppercase;
 }
 
-ul.entries li .overlay h3 {
+ul.entries li:hover .overlay {
+  opacity:1;
+}
+
+ul.entries li .overlay .dditle {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
+  /*
   margin: 0;
   padding: 0;
   line-height: 1.2;
@@ -96,16 +99,32 @@ ul.entries li .overlay h3 {
   background: #49565C;
   text-align: center;
   cursor: auto;
+  */
 }
 
-ul.entries li:hover .overlay hover {
+ul.entries li:hover .overlay {
   opacity: 1.0;
 }
 
-.container-fluid {
-  padding-right: 2%;
-  padding-left: 2%;
+ul.entries li .overlay .dditle {
+  font-size: 22px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #F4F5F0;
 }
+
+ul.entries li .overlay span {
+  white-space: nowrap;
+}
+
+ul.entries li .overlay em {
+  color: #DD362D;
+  display: block;
+  margin-top: 20px;
+  text-transform: none;
+}
+
+
+
 
 ul li.span6:nth-child(3) {
   margin-left: 0px;
@@ -113,6 +132,11 @@ ul li.span6:nth-child(3) {
 
 ul.portfolio-page {
   margin: 0 0 10px 0px;
+}
+
+.container-fluid {
+  padding-right: 2%;
+  padding-left: 2%;
 }
 
 .space {
