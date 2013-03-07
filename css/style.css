@@ -89,10 +89,6 @@ ul.entries li .overlay {
   text-transform: uppercase;
 }
 
-ul.entries li .overlay:hover {
-  opacity:1;
-}
-
 ul.entries li .overlay .dditle {
   font-size: 22px;
   padding-bottom: 10px;
@@ -109,6 +105,10 @@ ul.entries li .overlay em {
   display: block;
   margin-top: 20px;
   text-transform: none;
+}
+
+ul.entries li:hover .overlay {
+  opacity:1;
 }
 
 ul li.span6:nth-child(3) {
