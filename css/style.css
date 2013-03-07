@@ -6,7 +6,7 @@ body {
 body {
   /* http://subtlepatterns.com/ */
   background-image: url("../img/ecailles.png");
-  line-height: 20px;
+  /*line-height: 20px; */
   color: #333333;
   font-family: 'Julius Sans One', sans-serif;
 }
