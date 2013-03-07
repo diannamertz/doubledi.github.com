@@ -6,7 +6,7 @@ body {
 body {
   /* http://subtlepatterns.com/ */
   background-image: url("../img/ecailles.png");
-  /*line-height: 20px; */
+  line-height: 20px;
   color: #333333;
   font-family: 'Julius Sans One', sans-serif;
 }
@@ -36,7 +36,7 @@ nav li a {
 
 ul.entries li {
   position: relative; 
-  margin: 20px auto 20px 20px;
+  /*margin: 20px auto 20px 20px; */
 }
 
 ul.entries li .screenshot {
@@ -112,9 +112,6 @@ ul.entries li .overlay em {
   margin-top: 20px;
   text-transform: none;
 }
-
-
-
 
 ul li.span6:nth-child(3) {
   margin-left: 0px;
