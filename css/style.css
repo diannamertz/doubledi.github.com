@@ -74,16 +74,19 @@ ul.entries li .dditle span {
 }
 
 ul.entries li .overlay {
-  height: 270px;
-  width: 270px; 
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 960px;
+  width: 300px; 
+  cursor: pointer;
   padding: 25px;
+  color: #F4F5F0;
   background: rgba(0,0,0,0.7);
   display: table-cell;
   vertical-align: middle;
-  position: relative;
   z-index: 20;
-  color: #F4F5F0;
-  opacity: 0;
   font-size: 12px;
   text-transform: uppercase;
 }
