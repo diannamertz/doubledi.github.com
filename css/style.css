@@ -75,11 +75,11 @@ ul.entries li .dditle span {
 
 ul.entries li .overlay {
   opacity: 0;
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
-  width: 100%; 
+  height: inherit;
+  width: inherit; 
   cursor: pointer;
   padding: 25px;
   color: #F4F5F0;
