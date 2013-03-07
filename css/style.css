@@ -89,7 +89,7 @@ ul.entries li .overlay {
   text-transform: uppercase;
 }
 
-ul.entries li:hover .overlay {
+ul.entries li .overlay:hover {
   opacity:1;
 }
 
