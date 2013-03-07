@@ -49,11 +49,11 @@ ul.entries li .screenshot {
  }
 
 ul.entries li .dditle {
-  margin-top: -11px;
+  /*margin-top: -11px; */
   font-family: 'Raleway', sans-serif;
   position: absolute;
-  font-size: 22px;
-  line-height: 22px;
+  font-size: 5%;
+  line-height: 5%;
   text-transform: uppercase;
   color: #49565C;
   z-index: 10;
@@ -68,10 +68,7 @@ ul.entries li:hover .dditle {
 }
 
 ul.entries li .dditle span {
-  padding-left: 1%;
-  padding-right: 1%;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding: 1%;
   background: white;
   display: inline-block;
 }
