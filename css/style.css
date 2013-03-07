@@ -68,7 +68,10 @@ ul.entries li:hover .dditle {
 }
 
 ul.entries li .dditle span {
-  padding: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
   background: white;
   display: inline-block;
 }
