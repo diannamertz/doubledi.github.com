@@ -37,15 +37,7 @@ ul.entries li {
   position: relative; 
   margin: 20px auto 20px 20px;
 }
-/*
-ul.entries li .screenshot {
-  position: relative;
-  text-align: center;
-  overflow: hidden;
-  float: left;
-  cursor: pointer;
- }
-*/
+
 ul.entries li .dditle {
   /*margin-top: -11px; */
   font-family: 'Raleway', sans-serif;
