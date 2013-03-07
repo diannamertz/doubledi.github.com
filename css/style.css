@@ -92,10 +92,11 @@ ul.entries li:hover .overlay {
   opacity:1;
 }
 
-ul.entries li .overlay .dditle {
+ul.entries li .overlay > .dditle {
   font-size: 22px;
   padding-bottom: 10px;
   border-bottom: 1px solid #F4F5F0;
+  color: white;
 }
 
 ul.entries li .overlay span {
