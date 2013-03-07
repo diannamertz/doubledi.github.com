@@ -78,10 +78,10 @@ ul.entries li .overlay {
   position: absolute;
   top: 0;
   left: 0;
-  width: auto; 
-  height: auto;
+  width: 100%; 
+  height: 100%;
   cursor: pointer;
-  padding: 25px;
+  margin: 0px;
   color: #F4F5F0;
   background: rgba(0,0,0,0.7);
   display: table-cell;
