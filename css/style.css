@@ -7,7 +7,7 @@ body {
   /* http://subtlepatterns.com/ */
   background-image: url("../img/ecailles.png");
   line-height: 20px;
-  color #333333;
+  color: #333333;
   font-family: 'Julius Sans One', sans-serif;
 }
 
@@ -134,10 +134,6 @@ ul.portfolio-page {
   border:1px solid #e5e5e5;
   height: 822px;
   font-family: 'Raleway', sans-serif;
-}
-
-.hero-unit img {
-  /* margin: ; */
 }
 
 .carousel-control {
