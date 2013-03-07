@@ -78,8 +78,10 @@ ul.entries li .overlay {
   position: absolute;
   top: 0;
   left: 0;
+  /*
   height: inherit;
   width: inherit; 
+  */
   cursor: pointer;
   padding: 25px;
   color: #F4F5F0;
