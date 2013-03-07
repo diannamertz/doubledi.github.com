@@ -78,9 +78,8 @@ ul.entries li .overlay {
   position: absolute;
   top: 0;
   left: 0;
-  right: 0;
   width: 100%; 
-  height: auto;
+  height: 300px;
   cursor: pointer;
   padding: 25px;
   color: #F4F5F0;
