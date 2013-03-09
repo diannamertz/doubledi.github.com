@@ -175,7 +175,8 @@ ul.portfolio-page {
 }
 
 @media (max-width: 480px) {
-
-
+  ul.entries li .overlay {
+    display: none;
+  }
 }
 
