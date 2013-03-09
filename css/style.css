@@ -98,6 +98,7 @@ ul.entries li .overlay em {
   display: block;
   margin-top: 15px;
   text-transform: none;
+  overflow: none;
 }
 
 ul.entries li:hover .overlay {
