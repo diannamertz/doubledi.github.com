@@ -166,9 +166,11 @@ ul.portfolio-page {
 }
 
 @media (max-width: 767px) {
-  
+
   ul.entries li .overlay {
     display: none;
+    font-size: 60%;
+    background: rgba(0,0,0,0.7);
   }
 
   #footer {
