@@ -118,6 +118,7 @@ ul.portfolio-page {
 
 .space {
   margin-top: 50px;
+  display: table-cell;
 }
 
 .hero-unit {
@@ -139,10 +140,6 @@ ul.portfolio-page {
 
 .carousel-indicators li {
   background-color: #777777;
-}
-
-.span6 .hero-unit {
-  display: table-cell;
 }
 
 #wrap {
