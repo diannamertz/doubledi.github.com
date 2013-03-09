@@ -141,6 +141,10 @@ ul.portfolio-page {
   background-color: #777777;
 }
 
+.span6 .hero-unit {
+  display: table-cell;
+}
+
 #wrap {
   min-height: 100%;
   height: auto !important;
