@@ -165,7 +165,7 @@ ul.portfolio-page {
   margin-bottom: 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 979px) {
 
   ul.entries li .overlay {
     display: none;
