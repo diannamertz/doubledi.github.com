@@ -79,6 +79,7 @@ ul.entries li .overlay {
   z-index: 20;
   font-size: 12px;
   text-transform: uppercase;
+  text-indent: 5px;
 }
 
 ul.entries li .overlay .dditle {
