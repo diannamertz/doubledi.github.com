@@ -118,13 +118,13 @@ ul.portfolio-page {
 
 .space {
   margin-top: 50px;
-  display: table-cell;
 }
 
 .hero-unit {
   border:1px solid #e5e5e5;
   /*height: 100%; */
   font-family: 'Raleway', sans-serif;
+  display: table-cell;
 }
 
 .carousel-control {
