@@ -170,7 +170,9 @@ ul.portfolio-page {
   ul.entries li .overlay {
     display: none;
   }
+}
 
+@media (max-width: 767px) {
   #footer {
     margin-left: -20px;
     margin-right: -20px;
