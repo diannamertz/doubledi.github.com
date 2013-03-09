@@ -166,6 +166,11 @@ ul.portfolio-page {
 }
 
 @media (max-width: 767px) {
+  
+  ul.entries li .overlay {
+    display: none;
+  }
+
   #footer {
     margin-left: -20px;
     margin-right: -20px;
