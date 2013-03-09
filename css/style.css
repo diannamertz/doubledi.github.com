@@ -78,7 +78,7 @@ ul.entries li .overlay {
   vertical-align: middle;
   z-index: 20;
   /*font-size: 12px; */
-  font-size: 12em;
+  font-size: 12px;
   text-transform: uppercase;
   text-indent: 15px;
 }
