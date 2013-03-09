@@ -175,14 +175,7 @@ ul.portfolio-page {
 }
 
 @media (max-width: 480px) {
-   h3 {
-    font-size: 70%;
-    margin: 70%;
-  }
 
-  ul.entries li .overlay .em {
-    margin-top: 70%
-  }
 
 }
 
