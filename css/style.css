@@ -127,6 +127,7 @@ ul.portfolio-page {
 
 .dd569 {
   height: 569px;
+  overflow: hidden;
 }
 
 .dd824 {
@@ -135,6 +136,7 @@ ul.portfolio-page {
 
 .dd481 {
   height: 481px;
+  overflow: hidden;
 }
 
 .carousel-control {
