@@ -123,13 +123,10 @@ ul.portfolio-page {
 .hero-unit {
   border:1px solid #e5e5e5;
   font-family: 'Raleway', sans-serif;
-  height: 800px;
 }
 
 .hero-unit, .dd3 {
-  border:1px solid #e5e5e5;
-  font-family: 'Raleway', sans-serif;
-  height: 567px;
+  height: 568px;
 }
 
 .carousel-control {
