@@ -126,11 +126,12 @@ ul.portfolio-page {
   font-family: 'Raleway', sans-serif;
 }
 
-.hero-unit em  h4 {
+h4 {
   color: #DD362D;
   display: block;
   margin-top: 15px;
   text-transform: none;
+  font-style: italic;
   overflow: none;
 }
 
