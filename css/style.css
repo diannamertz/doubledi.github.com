@@ -165,7 +165,7 @@ h4 {
 }
 
 .carousel-indicators.middle {
-  background-color: #777777;
+  /*background-color: #777777; */
   left: 0;
   right: 0;
   top: auto;
