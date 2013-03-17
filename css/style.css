@@ -165,6 +165,7 @@ h4 {
 }
 
 .carousel-indicators.middle {
+  background-color: #777777;
   left: 0;
   right: 0;
   top: auto;
@@ -175,7 +176,7 @@ h4 {
 .carousel-indicators.middle li {
   float: none;
   display: inline-block;
-  background-color: #777777;
+  
 }
 
 #wrap {
