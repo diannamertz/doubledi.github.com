@@ -164,7 +164,17 @@ h4 {
   margin: auto;
 }
 
-.carousel-indicators li {
+.carousel-indicators.middle {
+  left: 0;
+  right: 0;
+  top: auto;
+  bottom: 15px;
+  text-align: center;
+}
+
+.carousel-indicators.middle li {
+  float: none;
+  display: inline-block;
   background-color: #777777;
 }
 
