@@ -27,6 +27,7 @@ nav li a {
   position: relative;
   float: right;
   padding: 5px;
+  width: 100%;
 }
 
 /* 
