@@ -278,3 +278,8 @@ h4 {
   }
 }
 
+nav li a {
+  position: relative;
+  float: right;
+  padding: 2px;
+}
