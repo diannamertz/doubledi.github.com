@@ -277,9 +277,7 @@ h4 {
   padding-left: 0.6%;
   }
   nav li a {
-  left:0;
-  right:0;
-  /*padding: 2px;*/
+  padding: 4px;
 }
 }
 
