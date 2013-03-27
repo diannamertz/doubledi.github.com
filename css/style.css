@@ -21,13 +21,13 @@ a:hover {
 
 nav ul, ul.entries {
   list-style-type: none;
+  width: 100%;
 }
 
 nav li a {
   position: relative;
   float: right;
   padding: 5px;
-  width: 100%;
 }
 
 /* 
