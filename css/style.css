@@ -277,7 +277,10 @@ h4 {
   padding-left: 0.6%;
   }
 nav ul, ul.entries {
- float: center;
+ float: left;
+}
+nav li a {
+  float: left;
 }
 }
 
