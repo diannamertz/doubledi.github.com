@@ -254,5 +254,8 @@ h4 {
   .hero-unit {
     padding: 10px;
   }
+  .space {
+  margin-top: 20px;
+}
 }
 
