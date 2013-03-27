@@ -251,5 +251,8 @@ h4 {
   ul.entries li .overlay {
     display: none;
   }
+  .hero-unit {
+    padding: 10px;
+  }
 }
 
