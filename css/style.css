@@ -124,6 +124,7 @@ ul.portfolio-page {
   font-size: 16px;
   border:1px solid #e5e5e5;
   font-family: 'Raleway', sans-serif;
+  overflow: hidden;
 }
 
 h4 {
