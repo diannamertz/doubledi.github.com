@@ -263,10 +263,6 @@ h4 {
 .dd772 {
   height: 100%;
 }
-.container-fluid {
-  padding-right: 1%;
-  padding-left: 1%;
-  }
   ul.entries li .overlay {
     display: none;
   }
@@ -276,5 +272,9 @@ h4 {
   .space {
   margin-top: 20px;
 }
+.container-fluid {
+  padding-right: 0.6%;
+  padding-left: 0.6%;
+  }
 }
 
