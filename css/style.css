@@ -279,7 +279,7 @@ h4 {
 }
 
 nav li a {
-  position: relative;
-  float: right;
+  position: absolute;
+  float: center;
   padding: 2px;
 }
