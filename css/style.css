@@ -281,12 +281,12 @@ nav li a {
   padding: 4px;
 }
 
-}
-
-@media (max-width: 320px) {
   body {
   padding-left: 0;
   padding-right: 0;
   }
+
 }
+
+
 
