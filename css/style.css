@@ -277,6 +277,11 @@ h4 {
   padding-left: 0;
 }
 
+body {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 nav li a {
   padding: 4px;
 }
