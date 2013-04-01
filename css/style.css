@@ -245,15 +245,15 @@ h4 {
     padding-left: 20px;
     padding-right: 20px;
   }
-/*
-  body {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  */
 }
 
 @media (max-width: 480px) {
+  
+  body {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
 .dd569 {
   height: 100%;
 }
