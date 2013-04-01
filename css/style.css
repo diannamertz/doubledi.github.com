@@ -273,8 +273,8 @@ h4 {
   margin-top: 20px;
 }
 .container-fluid {
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 0.4%;
+  padding-left: 0.4%;
 }
 
 nav li a {
