@@ -8,7 +8,8 @@ body {
   background-image: url("../img/ecailles.png");
   line-height: 20px;
   color: #333333;
-  font-family: 'Julius Sans One', sans-serif;
+ /* font-family: 'Julius Sans One', sans-serif;*/
+ font-family: Arial;
 }
 
 a {
@@ -134,7 +135,8 @@ p {
   padding:30px;
   font-size: 14px;
   border:1px solid #e5e5e5;
-  font-family: 'Raleway', sans-serif, Arial;
+  /*font-family: 'Raleway', sans-serif, Arial; */
+  font-family: Arial;
   overflow: hidden;
 }
 
