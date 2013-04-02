@@ -155,7 +155,7 @@ h4 {
 }
 
 .carousel-control {
-  top: 300px;
+  top: 50%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #000000;
 }
