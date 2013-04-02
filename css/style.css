@@ -192,6 +192,7 @@ h4 {
 }
 
 .js-video {
+  max-width: 1024px;
   height: 0;
   padding-top: 25px;
   padding-bottom: 67.5%;
