@@ -8,7 +8,7 @@ body {
   background-image: url("../img/ecailles.png");
   line-height: 20px;
   color: #333333;
-  font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 a {
@@ -22,7 +22,7 @@ a:hover {
 h3 {
   margin: 5px 0;
   margin-bottom:0;
-  font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 nav ul, ul.entries {
@@ -111,7 +111,7 @@ p {
   padding:30px;
   font-size: 14px;
   border:1px solid #e5e5e5;
-  font-family: 'Julius Sans-One', sans-serif;
+  font-family: 'Raleway', sans-serif;
   overflow: hidden;
 }
 
