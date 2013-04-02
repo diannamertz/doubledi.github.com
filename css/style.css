@@ -19,6 +19,10 @@ a:hover {
   color: #00adef;
 }
 
+h3 {
+  margin: 5px 0;
+}
+
 nav ul, ul.entries {
   list-style-type: none;
 }
