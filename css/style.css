@@ -122,7 +122,7 @@ ul.portfolio-page {
 
 .hero-unit {
   padding:30px;
-  font-size: 16px;
+  font-size: 14px;
   border:1px solid #e5e5e5;
   font-family: 'Raleway', sans-serif, Arial;
   overflow: hidden;
@@ -307,7 +307,6 @@ h4 {
   }
   .hero-unit {
     padding: 10px;
-    font-size: 14px;
   }
   .space {
   margin-top: 20px;
