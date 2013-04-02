@@ -173,6 +173,15 @@ h4 {
   background: #000000;
 }
 
+.carousel-caption h4,
+.carousel-caption p {
+  color: #DD362D;
+  line-height: 20px;
+}
+.carousel-caption h4 {
+  margin: 0 0 0;
+}
+
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   margin: auto;
