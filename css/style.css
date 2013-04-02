@@ -8,7 +8,7 @@ body {
   background-image: url("../img/ecailles.png");
   line-height: 20px;
   color: #333333;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 a {
@@ -22,7 +22,6 @@ a:hover {
 h3 {
   margin: 5px 0;
   margin-bottom:0;
-  font-family: 'Raleway', sans-serif;
 }
 
 nav ul, ul.entries {
@@ -236,12 +235,13 @@ h4 {
 
 @media (max-width: 979px) {
 
-  ul.entries li .overlay {
-    display: none;
-  }
+
 }
 
 @media (max-width: 767px) {
+  ul.entries li .overlay {
+  display: none;
+  }
   .carousel-control {
     top: 100px;
   }
