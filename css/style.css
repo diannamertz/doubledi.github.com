@@ -163,9 +163,8 @@ h4 {
   right: 0;
   height: 5%;
   padding: 15px;
-  /*background: #333333;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0); */
+  background: transparent;
+  background: rgba(0, 0, 0, 0); 
 }
 
 .carousel-control {
