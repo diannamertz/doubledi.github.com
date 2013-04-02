@@ -8,7 +8,7 @@ body {
   background-image: url("../img/ecailles.png");
   line-height: 20px;
   color: #333333;
-  font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 a {
@@ -22,6 +22,7 @@ a:hover {
 h3 {
   margin: 5px 0;
   margin-bottom:0;
+  font-family: 'Raleway', sans-serif;
 }
 
 nav ul, ul.entries {
