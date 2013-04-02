@@ -162,8 +162,7 @@ h4 {
   left: 0;
   right: 0;
   height: 5%;
-  padding-top: 15px;
-  padding-right: 0;
+  padding: 0;
   background: transparent;
   background: rgba(0, 0, 0, 0); 
 }
