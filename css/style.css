@@ -199,6 +199,10 @@ h4 {
   text-align: center;
 }
 
+.carousel-indicators.middle {
+  bottom: 10px;
+}
+
 .carousel-indicators.middle li {
   float: none;
   display: inline-block; 
