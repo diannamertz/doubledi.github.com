@@ -94,7 +94,7 @@ ul.entries li .overlay span {
 ul.entries li .overlay em {
   color: #DD362D;
   display: block;
-  margin-top: 5px;
+  margin-top: 0;
   text-transform: none;
   overflow: none;
 }
