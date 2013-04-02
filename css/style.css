@@ -12,11 +12,11 @@ body {
 }
 
 a {
-  color: #DD362D;
+  color: #00adef;
 }
 
 a:hover {
-  color: #ececec;
+  color: #00adef;
 }
 
 nav ul, ul.entries {
