@@ -248,6 +248,9 @@ h4 {
 }
 
 @media (max-width: 767px) {
+  .carousel-control {
+  top: 100px;
+  }
   #footer {
     margin-left: -20px;
     margin-right: -20px;
@@ -295,9 +298,7 @@ h4 {
 nav li a {
   padding: 4px;
 }
-.carousel-control {
-  top: 100px;
-  }
+
 
 }
 
