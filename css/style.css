@@ -234,14 +234,13 @@ h4 {
 }
 
 @media (max-width: 979px) {
-
+  ul.entries li .overlay {
+  display: none;
+  }
 
 }
 
 @media (max-width: 767px) {
-  ul.entries li .overlay {
-  display: none;
-  }
   .carousel-control {
     top: 100px;
   }
