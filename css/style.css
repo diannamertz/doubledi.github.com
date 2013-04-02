@@ -184,11 +184,11 @@ h4 {
 }
 
 .carousel-control.right {
-  right: -50px;
+  right: 15px;
 }
 
 .carousel-control.left {
-  left: -50px;
+  left: 15px;
 }
 
 .js-video {
