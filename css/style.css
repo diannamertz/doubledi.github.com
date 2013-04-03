@@ -45,7 +45,7 @@ ul.entries li {
 }
 
 ul.entries li .overlaylight {
-  opacity: 0.5;
+  opacity: .8;
   position: absolute;
   top: 0;
   left: 0;
