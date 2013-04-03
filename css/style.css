@@ -45,7 +45,7 @@ ul.entries li {
 }
 
 ul.entries li .overlay {
-  opacity: 0.5;
+  opacity: 0.3;
   position: absolute;
   top: 0;
   left: 0;
