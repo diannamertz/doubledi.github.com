@@ -79,7 +79,7 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  opacity:0.6;
+  opacity:0.5;
 }
 
 ul li.span6:nth-child(3) {
