@@ -58,6 +58,9 @@ ul.entries li .overlaylight {
   z-index: 20;
 }
 
+ul.entries li:hover .overlaylight {
+  opacity:1;
+}
 
 ul.entries li .overlaydark {
   opacity: 0;
