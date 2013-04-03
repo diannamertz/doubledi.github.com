@@ -45,7 +45,7 @@ ul.entries li {
 }
 
 ul.entries li .overlaydark {
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 0;
   left: 0;
@@ -79,15 +79,15 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  opacity:0.5;
+  opacity: 0.5;
 }
 
 ul li.span6:nth-child(3) {
-  margin-left: 0px;
+  margin-left: 0;
 }
 
 ul.portfolio-page {
-  margin: 0 0 10px 0px;
+  margin: 0 0 10px 0;
 }
 
 p {
