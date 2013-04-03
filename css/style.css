@@ -44,7 +44,7 @@ ul.entries li {
   margin: 20px auto 20px 20px;
 }
 
-ul.entries .overlaylight {
+ul.entries li .overlaylight {
   opacity: 0.4;
   position: absolute;
   top: 0;
@@ -60,6 +60,10 @@ ul.entries .overlaylight {
   font-size: 12px;
   text-transform: uppercase;
   text-indent: 15px;
+}
+
+ul.entries li:hover .overlaylight {
+  opacity:0;
 }
 
 ul.entries li .overlaydark {
