@@ -29,7 +29,7 @@ nav ul, ul.entries {
   list-style-type: none;
 }
 
-nav li a {
+nav li {
   position: relative;
   float: right;
   padding: 5px;
