@@ -233,7 +233,7 @@ h4 {
 }
 
 #icondd:hover {
-  opacity: 0.5;
+  color: #ffffff;
 }
 
 @media (max-width: 979px) {
