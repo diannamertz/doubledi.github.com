@@ -32,11 +32,6 @@ nav li {
   list-style: none;
 }
 
-.logodd {
-  height: 100%;
-  width: auto;
-}
-
 .icondd {
   height: 50px;
   width: 50px;
@@ -249,13 +244,6 @@ h4 {
   ul.entries li .overlaydark {
   display: none;
   }
-
-  #logodd {
-
-  height: 70%;
-  width: 70%;
-}
-
 }
 
 @media (max-width: 767px) {
