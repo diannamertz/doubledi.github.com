@@ -229,8 +229,8 @@ h4 {
 }
 
 #logodd {
-  height: 60px;
-  width: 260px;
+  height: 100%;
+  width: 100%;
 }
 
 #icondd {
@@ -250,6 +250,7 @@ h4 {
   }
 
   #logodd {
+
   height: 40px;
   width: 173.3px;
 }
