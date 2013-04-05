@@ -249,6 +249,11 @@ h4 {
   display: none;
   }
 
+  #logodd {
+  height: 40px;
+  width: 173.3px;
+}
+
 }
 
 @media (max-width: 767px) {
