@@ -24,11 +24,11 @@ h3 {
   margin-bottom:0;
   font-family: 'Raleway', sans-serif;
 }
-
+/*
 nav ul, ul.entries {
   list-style-type: none;
 }
-
+*/
 nav li {
   position: relative;
   float: right;
