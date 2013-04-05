@@ -32,17 +32,17 @@ nav li {
   list-style: none;
 }
 
-#logodd {
+.logodd {
   height: 100%;
   width: auto;
 }
 
-#icondd {
+.icondd {
   height: 60px;
   width: 60px;
 }
 
-#icondd:hover {
+.icondd:hover {
   opacity: 0.4;
   cursor: pointer;
 }
