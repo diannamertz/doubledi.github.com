@@ -234,7 +234,8 @@ h4 {
 }
 
 #icondd:hover {
-  background-color: white;
+  border: 2px;
+  border-color: black;
   cursor: pointer;
 }
 
