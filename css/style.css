@@ -29,6 +29,7 @@ nav li {
   position: relative;
   float: right;
   padding: 5px;
+  list-style: none;
 }
 
 /* 
