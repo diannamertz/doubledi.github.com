@@ -32,6 +32,21 @@ nav li {
   list-style: none;
 }
 
+#logodd {
+  height: 100%;
+  width: 150%;
+}
+
+#icondd {
+  height: 60px;
+  width: 60px;
+}
+
+#icondd:hover {
+  opacity: 0.4;
+  cursor: pointer;
+}
+
 /* 
  * Main Grid View
  */
@@ -229,20 +244,6 @@ h4 {
   margin-bottom: 0;
 }
 
-#logodd {
-  height: 100%;
-  width: 100%;
-}
-
-#icondd {
-  height: 60px;
-  width: 60px;
-}
-
-#icondd:hover {
-  opacity: 0.4;
-  cursor: pointer;
-}
 
 @media (max-width: 979px) {
   ul.entries li .overlaydark {
