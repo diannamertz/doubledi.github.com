@@ -239,8 +239,7 @@ h4 {
 }
 
 #icondd:hover {
-  border: 2px;
-  border-color: black;
+  opacity: 0.4;
   cursor: pointer;
 }
 
