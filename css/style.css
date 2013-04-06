@@ -263,12 +263,15 @@ h4 {
   }
 }
 
-@media (max-width: 767px) {
-  nav li {
+@media (max-width: 500px) {
+    nav li {
     float: left;
     margin-left: 0;
     padding-left: 0;
   }
+}
+
+@media (max-width: 767px) {
 
   ul.entries li .overlaydark h3 {
     font-size: 18px;
