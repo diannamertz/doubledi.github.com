@@ -78,7 +78,6 @@ ul.entries li .overlaydark span {
 }
 
 ul.entries li .overlaydark em {
-  /* color: #DD362D; */
   color: transparent;
   display: block;
   margin-top: 0;
@@ -149,7 +148,7 @@ h4 {
   height: 5%;
   padding: 0;
   background: transparent;
-  background: rgba(0, 0, 0, 0); 
+  /* background: rgba(0, 0, 0, 0); */
 }
 
 .carousel-control {
@@ -253,11 +252,11 @@ h4 {
 @media (max-width: 979px) {
 
   ul.entries li:hover .overlaydark h3 {
-    font-size: 18px;
+    /* font-size: 18px; */
   }
 
   ul.entries li:hover .overlaydark {
-    font-size: 14px;
+    /* font-size: 14px; */
   }
 
 }
@@ -280,11 +279,7 @@ h4 {
     padding-left: 2%;
     padding-right: 2%;
   }
-  /*
-  ul.entries li .overlaydark {
-    display: none;
-  }
-  */
+
   .hero-unit {
     padding: 10px;
   }
@@ -300,7 +295,7 @@ h4 {
     height:40px;
     width:40px;
   }
-
+  /*
   ul.entries li:hover .overlaydark  {
     color: transparent;
   }
@@ -308,7 +303,7 @@ h4 {
   ul.entries li:hover .overlaydark em {
     color: transparent;
   }
-
+  */
 }
 
 
