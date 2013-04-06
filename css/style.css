@@ -292,9 +292,8 @@ h4 {
     width:40px;
   }
 
-  .overlaydark h3 {
-    font-size: 14px;
-    overflow: none;
+  ul.entries li:hover .overlaydark  {
+    display: none;
   }
 
 }
