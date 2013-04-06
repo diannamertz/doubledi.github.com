@@ -87,7 +87,7 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  border: 3px;
+  border: 20px;
   border-color: #00adef;
 }
 
