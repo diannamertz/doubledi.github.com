@@ -293,7 +293,7 @@ h4 {
   }
 
   ul.entries li:hover .overlaydark  {
-    display: none;
+    color: rgba(0,0,0,0);
   }
 
 }
