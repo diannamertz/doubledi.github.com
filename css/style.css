@@ -76,7 +76,6 @@ ul.entries li .overlaydark {
   text-indent: 15px;
   overflow: hidden;
   white-space: nowrap; 
-  line-height: 25px;
 }
 
 ul.entries li .overlaydark span {
@@ -260,7 +259,6 @@ h4 {
 
 @media (max-width: 979px) {
   ul.entries li .overlaydark {
-    line-height: 20px;
   }
 
   ul.entries li .overlaydark h3 {
