@@ -278,10 +278,6 @@ h4 {
 
 @media (max-width: 480px) {
 
-  ul.entries li .overlaydark h3 {
-    margin: 2px 0;
-  }
-  
   ul.entries li:hover .overlaydark span {
    color: transparent;
   }
@@ -312,5 +308,9 @@ h4 {
   }
 }
 
-
+@media (max-width: 380px) {
+    ul.entries li .overlaydark h3 {
+    font-size: 16px;
+  }
+}
 
