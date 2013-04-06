@@ -63,7 +63,7 @@ ul.entries li .overlaydark {
   height: 100.51%;
   cursor: pointer;
   margin: 0;
-  background: rgba(0,0,0,0.7);
+  background: rgba(0,0,0,0.4);
   vertical-align: middle;
   z-index: 20;
   font-size: 14px;
@@ -87,7 +87,7 @@ ul.entries li .overlaydark em {
 
 ul.entries li:hover .overlaydark {
   color: #eeeeee;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.7);
 }
 
 ul.entries li:hover .overlaydark em {
