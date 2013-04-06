@@ -33,7 +33,6 @@ nav li {
 }
 
 .icondd {
-  /*margin-top: 5px; */
   height: 50px;
   width: 50px;
 }
@@ -283,6 +282,7 @@ h4 {
 @media (max-width: 480px) {
   nav li {
     float: left;
+    margin-left: 0;
   }
 
   ul.entries li:hover .overlaydark span {
