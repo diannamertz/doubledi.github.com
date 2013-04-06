@@ -91,10 +91,6 @@ ul.entries li:hover .overlaydark {
   
 }
 
-ul.entries li:hover .overlaydark em {
-  color: black;
-}
-
 ul li.span6:nth-child(3) {
   margin-left: 0;
 }
@@ -116,7 +112,7 @@ p {
   margin-top: 45px;
 }
 
-  .space2 {
+.space2 {
   margin-top: 10px;
 }
 
@@ -247,9 +243,11 @@ h4 {
 
 
 @media (max-width: 979px) {
+  /*
   ul.entries li .overlaydark {
   display: none;
   }
+  */
 }
 
 @media (max-width: 767px) {
