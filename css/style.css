@@ -255,9 +255,6 @@ h4 {
   ul.entries li .overlaydark h3 {
     font-size: 20px;
   }
-  ul.entries li .overlaydark em {
-    margin-top: 0;
-  }
 }
 
 @media (max-width: 767px) {
@@ -280,12 +277,6 @@ h4 {
 }
 
 @media (max-width: 480px) {
-/*
-  ul.entries li .overlaydark h3 {
-    margin-top: 40px;
-    text-align: center;
-  }
-  */
 
   ul.entries li:hover .overlaydark span {
    color: transparent;
