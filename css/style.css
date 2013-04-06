@@ -55,7 +55,6 @@ ul.entries li {
 ul.entries li .overlaydark {
   opacity: 1;
   color: #eeeeee; 
-  /* color: transparent; */
   position: absolute;
   top: 0;
   left: 0;
@@ -75,6 +74,7 @@ ul.entries li .overlaydark {
 ul.entries li .overlaydark span {
   white-space: nowrap; 
   color: transparent;
+  text-transform: none;
 }
 
 ul.entries li .overlaydark em {
