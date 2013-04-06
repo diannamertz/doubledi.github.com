@@ -262,6 +262,13 @@ h4 {
 }
 
 @media (max-width: 767px) {
+  ul.entries li:hover .overlaydark  {
+   color: transparent;
+  }
+
+  ul.entries li:hover .overlaydark em {
+    color: transparent;
+  }
   .carousel-control {
     top: 100px;
   }
@@ -295,15 +302,6 @@ h4 {
     height:40px;
     width:40px;
   }
-  /*
-  ul.entries li:hover .overlaydark  {
-    color: transparent;
-  }
-
-  ul.entries li:hover .overlaydark em {
-    color: transparent;
-  }
-  */
 }
 
 
