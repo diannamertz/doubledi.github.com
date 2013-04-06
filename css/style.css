@@ -43,6 +43,10 @@ nav li {
   cursor: pointer;
 }
 
+.subfont {
+  color: #eeeeee;
+}
+
 /* 
  * Main Grid View
  */
@@ -255,14 +259,14 @@ h4 {
   ul.entries li .overlaydark h3 {
     font-size: 20px;
   }
+  ul.entries li .overlaydark em {
+    margin-top: 2px;
+  }
 }
 
 @media (max-width: 767px) {
   ul.entries li .overlaydark h3 {
     font-size: 18px;
-  }
-  ul.entries li .overlaydark em {
-    margin-top: 2px;
   }
 
   .carousel-control {
