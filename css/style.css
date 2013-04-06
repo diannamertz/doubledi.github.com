@@ -264,7 +264,7 @@ h4 {
     padding-right: 20px;
   }
 
-  .ul.entries li .overlaydark h3 {
+  ul.entries li:hover .overlaydark h3 {
     font-size: 14px;
   }
 }
