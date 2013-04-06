@@ -283,6 +283,7 @@ h4 {
   nav li {
     float: left;
     margin-left: 0;
+    padding-left: 0;
   }
 
   ul.entries li:hover .overlaydark span {
