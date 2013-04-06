@@ -87,8 +87,12 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  color: #00adef;
+  opacity: 0.5;
  /* border: 2px solid #00adef; */
+}
+
+ul.entries li:hover .overlaydark em {
+  opacity: 1;
 }
 
 ul li.span6:nth-child(3) {
