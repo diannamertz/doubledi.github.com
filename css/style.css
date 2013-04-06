@@ -256,13 +256,16 @@ h4 {
     font-size: 20px;
   }
   ul.entries li .overlaydark em {
-    margin-top: 1px;
+    margin-top: 0;
   }
 }
 
 @media (max-width: 767px) {
   ul.entries li .overlaydark h3 {
     font-size: 18px;
+  }
+  ul.entries li .overlaydark em {
+    margin-top: 2px;
   }
 
   .carousel-control {
@@ -277,11 +280,12 @@ h4 {
 }
 
 @media (max-width: 480px) {
-
+/*
   ul.entries li .overlaydark h3 {
     margin-top: 40px;
     text-align: center;
   }
+  */
 
   ul.entries li:hover .overlaydark span {
    color: transparent;
