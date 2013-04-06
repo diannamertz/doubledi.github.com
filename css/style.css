@@ -263,13 +263,6 @@ h4 {
   }
 }
 
-@media (max-width: 500px) {
-    nav li {
-    float: left;
-    margin-left: 0;
-    padding-left: 0;
-  }
-}
 
 @media (max-width: 767px) {
 
@@ -285,6 +278,14 @@ h4 {
     margin-right: -20px;
     padding-left: 20px;
     padding-right: 20px;
+  }
+}
+
+@media (max-width: 550px) {  
+  nav li {
+    float: left;
+    margin-left: 0;
+    padding-left: 0;
   }
 }
 
