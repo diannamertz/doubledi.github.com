@@ -32,12 +32,12 @@ nav li {
   list-style: none;
 }
 
-.icondd {
+.icondd img {
   height: 50px;
   width: 50px;
 }
 
-.icondd:hover {
+.icondd:hover img {
   opacity: 0.4;
   cursor: pointer;
 }
@@ -319,7 +319,7 @@ h4 {
     padding-left: 0;
   }
 
-  .icondd {
+  .icondd img {
     height:40px;
     width:40px;
   }
