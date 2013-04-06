@@ -281,6 +281,9 @@ h4 {
 }
 
 @media (max-width: 480px) {
+  nav li {
+    float: left;
+  }
 
   ul.entries li:hover .overlaydark span {
    color: transparent;
