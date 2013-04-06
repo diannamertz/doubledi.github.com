@@ -54,6 +54,8 @@ ul.entries li {
 
 ul.entries li .overlaydark {
   opacity: 1;
+  /* color: #eeeeee; */
+  color: rgba(255,255,255,0);
   position: absolute;
   top: 0;
   left: 0;
@@ -61,7 +63,6 @@ ul.entries li .overlaydark {
   height: 100.51%;
   cursor: pointer;
   margin: 0;
-  color: #eeeeee;
   background: rgba(0,0,0,0.7);
   vertical-align: middle;
   z-index: 20;
@@ -75,20 +76,22 @@ ul.entries li .overlaydark span {
 }
 
 ul.entries li .overlaydark em {
-  color: #DD362D;
+  /* color: #DD362D; */
+  color: rgba(0,0,0,0);
   display: block;
   margin-top: 0;
+  margin-bottom: 0;
   text-transform: none;
   overflow: none;
 }
 
-ul.entries li .overlaydark em {
-  margin-bottom: 0;
+ul.entries li:hover .overlaydark {
+  color: #eeeeee;
+  background: rgba(0,0,0,0.4);
 }
 
-ul.entries li:hover .overlaydark {
-  background: rgba(0,0,0,0.4);
-  
+ul.entries li:hover .overlaydark em {
+  color: #DD362D;
 }
 
 ul li.span6:nth-child(3) {
