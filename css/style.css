@@ -95,7 +95,7 @@ ul.entries li:hover .overlaydark span {
 }
 
 ul.entries li:hover .overlaydark em {
-  opacity:0.5;
+  opacity: 1;
 }
 
 ul li.span6:nth-child(3) {
