@@ -255,6 +255,9 @@ h4 {
   ul.entries li .overlaydark h3 {
     font-size: 18px;
   }
+  ul.entries li .overlaydark em {
+    margin-top: 1px;
+  }
 }
 
 @media (max-width: 767px) {
