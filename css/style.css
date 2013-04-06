@@ -259,6 +259,9 @@ h4 {
 
 
 @media (max-width: 979px) {
+  ul.entries li .overlaydark {
+    line-height: 20px;
+  }
 
   ul.entries li .overlaydark h3 {
     font-size: 18px;
