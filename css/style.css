@@ -279,6 +279,7 @@ h4 {
 @media (max-width: 480px) {
 
   ul.entries li .overlaydark h3 {
+    position: absolute;
     text-align: center;
     top: 50%;
   }
