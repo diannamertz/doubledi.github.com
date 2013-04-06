@@ -263,6 +263,9 @@ h4 {
 }
 
 @media (max-width: 767px) {
+  ul.entries li .overlaydark h3 {
+    font-size: 24px;
+  }
   ul.entries li:hover .overlaydark span {
    color: transparent;
   }
