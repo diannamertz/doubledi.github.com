@@ -155,7 +155,6 @@ h4 {
   height: 5%;
   padding: 0;
   background: transparent;
-  /* background: rgba(0, 0, 0, 0); */
 }
 
 .carousel-control {
@@ -258,8 +257,6 @@ h4 {
 
 
 @media (max-width: 979px) {
-  ul.entries li .overlaydark {
-  }
 
   ul.entries li .overlaydark h3 {
     font-size: 18px;
@@ -267,10 +264,10 @@ h4 {
   }
   ul.entries li .overlaydark em {
     margin-top: 0;
-    font-size: 16px;
+    font-size: 14px;
   }
   ul.entries li .overlaydark span {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
