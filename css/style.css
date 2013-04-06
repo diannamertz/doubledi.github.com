@@ -87,8 +87,8 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  
-  border: 2px solid #00adef;
+  color: #00adef;
+ /* border: 2px solid #00adef; */
 }
 
 ul li.span6:nth-child(3) {
