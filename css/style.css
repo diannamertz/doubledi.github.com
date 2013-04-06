@@ -88,14 +88,7 @@ ul.entries li .overlaydark em {
 
 ul.entries li:hover .overlaydark {
   opacity: 0.5;
-}
-
-ul.entries li:hover .overlaydark span {
-  opacity: 1;
-}
-
-ul.entries li:hover .overlaydark em {
-  opacity: 1;
+  background-color: black;
 }
 
 ul li.span6:nth-child(3) {
