@@ -87,47 +87,9 @@ ul.entries li .overlaydark em {
 }
 
 ul.entries li:hover .overlaydark {
-  opacity: 0.5;
+  background: rgba(0,0,0,0.4);
  /* border: 2px solid #00adef; */
 }
-
-ul.entries li .overlaylight {
-  opacity: 0;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%; 
-  height: 100.51%;
-  cursor: pointer;
-  margin: 0;
-  color: #F4F5F0;
-  vertical-align: middle;
-  z-index: 20;
-  font-size: 12px;
-  text-transform: uppercase;
-  text-indent: 15px;
-}
-
-ul.entries li .overlaylight span {
-  white-space: nowrap;
-}
-
-ul.entries li .overlaylight em {
-  color: #DD362D;
-  display: block;
-  margin-top: 0;
-  text-transform: none;
-  overflow: none;
-}
-
-ul.entries li .overlaylight em {
-  margin-bottom: 0;
-}
-
-ul.entries li:hover .overlaylight {
-  opacity: 1;
-}
-
 
 ul li.span6:nth-child(3) {
   margin-left: 0;
