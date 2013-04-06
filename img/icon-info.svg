@@ -3,7 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<text transform="matrix(1 0 0 1 205.1743 386.3896)" fill="#777777" font-family="'TwCenMT-Bold'" font-size="400">i</text>
+<g id="Layer_3">
+	<line fill="none" stroke="#777777" stroke-width="35" stroke-miterlimit="10" x1="256" y1="219.5" x2="256" y2="386.39"/>
+	<circle fill="#777777" cx="256" cy="163.75" r="18.75"/>
+</g>
+<text transform="matrix(1 0 0 1 205.1743 386.3896)" display="none" fill="#777777" enable-background="new    " font-family="'TwCenMT-Bold'" font-size="400">i</text>
 <path fill="#777777" d="M257.127,36.127c29.698,0,58.489,5.81,85.574,17.265c26.179,11.071,49.696,26.931,69.899,47.135
 	s36.062,43.721,47.135,69.899C471.191,197.51,477,226.301,477,255.998c0,29.698-5.809,58.491-17.265,85.575
 	c-11.072,26.18-26.932,49.695-47.135,69.898c-20.203,20.205-43.722,36.062-69.899,47.135
