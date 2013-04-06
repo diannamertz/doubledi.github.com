@@ -281,7 +281,7 @@ h4 {
   }
 }
 
-@media (max-width: 550px) {  
+@media (max-width: 580px) {  
   nav li {
     float: left;
     margin-left: 0;
