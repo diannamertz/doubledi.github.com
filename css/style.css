@@ -55,7 +55,7 @@ ul.entries li {
 ul.entries li .overlaydark {
   opacity: 1;
   /* color: #eeeeee; */
-  color: rgba(255,255,255,0);
+  color: transparent;
   position: absolute;
   top: 0;
   left: 0;
@@ -77,7 +77,7 @@ ul.entries li .overlaydark span {
 
 ul.entries li .overlaydark em {
   /* color: #DD362D; */
-  color: rgba(0,0,0,0);
+  color: transparent;
   display: block;
   margin-top: 0;
   margin-bottom: 0;
@@ -293,7 +293,7 @@ h4 {
   }
 
   ul.entries li:hover .overlaydark  {
-    color: rgba(0,0,0,0);
+    color: transparent;
   }
 
 }
