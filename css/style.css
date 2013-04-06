@@ -65,7 +65,7 @@ ul.entries li .overlaydark {
   background: rgba(0,0,0,0.7);
   vertical-align: middle;
   z-index: 20;
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   text-indent: 15px;
 }
