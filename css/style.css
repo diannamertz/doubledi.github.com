@@ -265,9 +265,11 @@ h4 {
   ul.entries li .overlaydark em {
     margin-top: 0;
     font-size: 14px;
+    line-height: 17px;
   }
   ul.entries li .overlaydark span {
     font-size: 14px;
+    line-height: 17px;
   }
 }
 
