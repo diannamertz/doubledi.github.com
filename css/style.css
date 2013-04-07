@@ -313,8 +313,11 @@ h4 {
 @media (max-width: 480px) {
 
 .modal-portrait {
+  /*
   float: left;
   margin-left: 0;
+  */
+  display: none;
 }
 
 .modal-body p {
