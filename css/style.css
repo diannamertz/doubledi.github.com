@@ -317,6 +317,10 @@ h4 {
   margin-left: 0;
 }
 
+.modal-body p {
+  padding-top: 5px;
+}
+
 
   ul.entries li:hover .overlaydark span {
    color: transparent;
