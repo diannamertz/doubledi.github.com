@@ -318,7 +318,7 @@ h4 {
 }
 
 .modal-body p {
-  padding-top: 5px;
+  float: left;
 }
 
   ul.entries li:hover .overlaydark span {
