@@ -49,6 +49,10 @@ nav li {
   line-height: 35px;
 }
 
+.modal-body {
+  font-family: 'Raleway', sans-serif;
+}
+
 /* 
  * Main Grid View
  */
