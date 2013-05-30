@@ -42,12 +42,12 @@ nav li {
   cursor: pointer;
 }
 
-#logo {
+.logo {
   background: url('/img/logo.png') no-repeat;
 
 }
 
-#logo:hover {
+.logo:hover {
   background: url('/img/logo-hover.png') no-repeat;
 
 }
