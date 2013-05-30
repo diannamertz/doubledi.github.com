@@ -44,7 +44,7 @@ nav li {
 
 
 .logo:hover {
-  background: url('/img/logo-hover.png') center top no-repeat;
+  background: url('/img/logo-hover.png') no-repeat;
 }
 
 .subfont {
