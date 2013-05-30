@@ -43,15 +43,15 @@ nav li {
 }
 
 #doublelogo {
-  /*background: url('/img/logo.png') no-repeat; */
+  background: url('/img/logo.png') no-repeat;
   width: 263px;
   height: 155px;
 }
 
 #doublelogo:hover {
   background: url('/img/logo-hover.png') no-repeat;
-  width: 263px;
-  height: 155px;
+    width: 263px;
+    height: 155px;
 }
 
 
