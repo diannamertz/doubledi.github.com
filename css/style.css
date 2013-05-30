@@ -42,14 +42,8 @@ nav li {
   cursor: pointer;
 }
 
-.logo {
-  margin: 0;
-  width: 160px;
-  display:block;
-  background:transparent url('/img/logo-hover.png') no-repeat;
-}
-
 .logo:hover {
+  margin:0;
   background: url('/img/logo-hover.png') no-repeat;
 }
 
