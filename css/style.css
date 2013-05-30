@@ -42,10 +42,12 @@ nav li {
   cursor: pointer;
 }
 
+/*
 .logo:hover {
   margin:0;
   background: url('/img/logo-hover.png') no-repeat;
 }
+*/
 
 .subfont {
   font-family: 'Raleway', sans-serif;
