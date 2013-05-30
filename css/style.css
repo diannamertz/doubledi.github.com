@@ -42,16 +42,12 @@ nav li {
   cursor: pointer;
 }
 
-.logo {
-  margin:0;
-  width: 263px;
-  height: 155px;
-  background: url('/img/logo.png') no-repeat;
+#logo {
+  background-image: '/img/logo.png';
 }
 
-.logo:hover {
-  margin:0;
-  background: url('/img/logo-hover.png') no-repeat;
+#logo:hover {
+  background-image: '/img/logo.png';
 }
 
 
