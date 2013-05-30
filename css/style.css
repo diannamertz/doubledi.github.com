@@ -110,7 +110,7 @@ ul.entries li:hover .overlaydark {
 }
 
 ul.entries li:hover .overlaydark em {
-  color: #DD362D;
+  color: #b22859;
 }
 
 ul.entries li:hover .overlaydark span {
@@ -177,7 +177,7 @@ h4 {
 
 .carousel-caption h4,
 .carousel-caption p {
-  color: #DD362D;
+  color: #b22859;
   line-height: 20px;
 }
 .carousel-caption h4 {
