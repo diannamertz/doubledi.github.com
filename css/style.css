@@ -43,11 +43,11 @@ nav li {
 }
 
 .logo {
-  background:transparent url(/img/logo.png) no-repeat;
+  background:transparent url(/img/logo.png) center top no-repeat;
 }
 
 .logo:hover {
-  background: url(/img/logo-hover.png) no-repeat;
+  background: url(/img/logo-hover.png) center top no-repeat;
 }
 
 .subfont {
