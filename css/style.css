@@ -44,8 +44,8 @@ nav li {
 
 .logo {
   margin:0;
-  width: 263px;
-  height: 155px;
+  width: 50%;
+  height: 50%;
   background: url('/img/logo.png') no-repeat;
 }
 
