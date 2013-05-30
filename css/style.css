@@ -42,6 +42,12 @@ nav li {
   cursor: pointer;
 }
 
+.logo {
+  margin:0;
+  width: 263px;
+  height: 154px;
+  background: url('/img/logo.png') no-repeat;}
+
 .logo:hover {
   margin:0;
   width: 263px;
