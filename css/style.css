@@ -50,6 +50,8 @@ nav li {
 
 .logo:hover {
   margin:0;
+  width:263px;
+  height:155px;
   background: url('/img/logo-hover.svg') no-repeat;
 }
 
