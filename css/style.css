@@ -44,6 +44,7 @@ nav li {
 
 .logo {
   margin: 0;
+  width: 160px;
   background:transparent url('/img/logo-hover.png') no-repeat;
 }
 
