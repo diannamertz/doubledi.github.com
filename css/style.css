@@ -44,7 +44,8 @@ nav li {
 
 #doublelogo {
   background: url('/img/logo.png') no-repeat;
-  max-width: 50%;
+  width: 263px;
+  height: 155px;
 }
 
 #doublelogo:hover {
