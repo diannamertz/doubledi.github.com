@@ -42,12 +42,13 @@ nav li {
   cursor: pointer;
 }
 
-.logo {
+#doublelogo {
   background: url('/img/logo.png') no-repeat;
-
+  width: 263px;
+  height: 155px;
 }
 
-.logo:hover {
+#doublelogo:hover {
   background: url('/img/logo-hover.png') no-repeat;
 
 }
