@@ -46,12 +46,11 @@ nav li {
   margin:0;
   width: 263px;
   height: 155px;
-  background: url('/img/logo.svg') no-repeat;}
+  background: url('/img/logo.svg') no-repeat;
+}
 
 .logo:hover {
   margin:0;
-  width:263px;
-  height:155px;
   background: url('/img/logo-hover.svg') no-repeat;
 }
 
