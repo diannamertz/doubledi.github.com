@@ -42,12 +42,13 @@ nav li {
   cursor: pointer;
 }
 
-/*
 .logo:hover {
   margin:0;
+  width: 263px;
+  height: 154px;
   background: url('/img/logo-hover.png') no-repeat;
 }
-*/
+
 
 .subfont {
   font-family: 'Raleway', sans-serif;
