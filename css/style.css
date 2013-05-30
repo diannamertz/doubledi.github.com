@@ -43,11 +43,15 @@ nav li {
 }
 
 #logo {
-  background-image: '/img/logo.png';
+  background: url('/img/logo.png') no-repeat;
+  width: 263px;
+  height: 155px;
 }
 
 #logo:hover {
-  background-image: '/img/logo.png';
+  background: url('/img/logo-hover.png') no-repeat;
+  width: 263px;
+  height: 155px;
 }
 
 
