@@ -42,9 +42,6 @@ nav li {
   cursor: pointer;
 }
 
-.logo {
-  background:transparent url('/img/logo.png') center top no-repeat;
-}
 
 .logo:hover {
   background: url('/img/logo-hover.png') center top no-repeat;
