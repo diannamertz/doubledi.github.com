@@ -8,8 +8,8 @@ body {
   background-image: url("../img/low_contrast_linen.png");
   line-height: 20px;
   color: #333333;
-  /*font-family: 'Julius Sans One', sans-serif; */
-  font-family:'Raleway', sans-serif;
+  font-family: 'Julius Sans One', sans-serif; 
+  
 }
 
 a {
@@ -23,7 +23,8 @@ a:hover {
 h3 {
   margin: 5px 0;
   margin-bottom:0;
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Julius Sans One', sans-serif; 
 }
 
 nav li {
