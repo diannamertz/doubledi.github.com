@@ -41,6 +41,11 @@ nav li {
   opacity: 0.4;
   cursor: pointer;
 }
+
+#doublelogoposition {
+  position: relative;
+}
+
 /*
 #doublelogo {
   background: url('/img/logo.png') no-repeat;
@@ -51,7 +56,9 @@ nav li {
   background: url('/img/logo-hover.png') no-repeat;
   width: 263px;
   height: 155px;
-  position: relative;
+  position: absolute;
+  top:0;
+  left:0;
 }
 
 
