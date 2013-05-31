@@ -42,10 +42,6 @@ nav li {
   cursor: pointer;
 }
 
-.dd-relative {
-  position: relative;
-}
-
 .doublelogocontainer {
   position: relative;
   width: 270px;
