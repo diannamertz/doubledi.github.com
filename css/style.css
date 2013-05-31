@@ -318,9 +318,7 @@ h4 {
 }
 }
 
-@media (max-width: 600px) {  
-
-/*
+@media (max-width: 640px) {  
   nav ul {
     margin-left: 0;
   }
@@ -329,18 +327,6 @@ h4 {
     margin-left: 0;
     margin-bottom: 10px;
   }
-  */
-  nav ul {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  nav li {
-    float: left;
-    margin-left: 0;
-    margin-bottom: 10px;
-  }
-
 }
 
 @media (max-width: 480px) {
