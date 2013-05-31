@@ -51,7 +51,7 @@ nav li {
   background: url('/img/logo-hover.png') no-repeat;
   width: 263px;
   height: 155px;
-  position: relative;
+  position: absolute;
 }
 
 
