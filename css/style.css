@@ -46,17 +46,14 @@ nav li {
   position: relative;
   width: 263px;
   height: 155px;
-}
-
-.doublelogo {
-  position:absolute;
   top: 0;
   left: 0;
-  display: none;
 }
 
-.doublelogocontainer:hover .doublelogo{
+.doublelogocontainer:hover {
   display: block;
+  opacity: 0.4;
+  cursor: pointer;
 }
 
 
