@@ -52,7 +52,7 @@ nav li {
   */
 }
 
-.doublelogocontainer:hover {
+.doublelogocontainer:hover img {
   display: block;
   opacity: 0.4;
   cursor: pointer;
