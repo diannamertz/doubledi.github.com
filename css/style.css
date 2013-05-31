@@ -46,12 +46,14 @@ nav li {
   background: url('/img/logo.png') no-repeat;
   width: 263px;
   height: 155px;
+  position: absolute;
 }
 
 #doublelogo:hover {
   background: url('/img/logo-hover.png') no-repeat;
     width: 263px;
     height: 155px;
+    position: absolute;
 }
 
 
