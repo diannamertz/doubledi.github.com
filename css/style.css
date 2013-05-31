@@ -55,7 +55,7 @@ nav li {
   display: none;
 }
 
-.doublelogo:hover img {
+.doublelogocontainer:hover img {
   opacity: 0.4;
   cursor: pointer;
 }
