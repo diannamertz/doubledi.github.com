@@ -124,7 +124,7 @@ ul.entries li .overlaydark em {
 
 ul.entries li:hover .overlaydark {
   color: #eeeeee;
-  background: rgba(0,0,0,1.0);
+  background: rgba(0,0,0,0.8);
 }
 
 ul.entries li:hover .overlaydark em {
