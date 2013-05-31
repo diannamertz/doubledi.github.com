@@ -45,6 +45,7 @@ nav li {
 .doublelogocontainer {
   position: relative;
   width: 250px;
+  height: auto;
   /*
   top: 0;
   left: 0;
