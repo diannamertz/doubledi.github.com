@@ -319,7 +319,7 @@ h4 {
   }
 }
 
-@media (max-width: 550px) {  
+@media (max-width: 500px) {  
   nav ul {
     margin-left: 0;
   }
