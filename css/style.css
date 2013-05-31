@@ -336,7 +336,7 @@ h4 {
   }
 
   nav li {
-    margin: auto;
+    float: left;
     margin-left: 0;
     margin-bottom: 10px;
   }
