@@ -331,9 +331,16 @@ h4 {
   }
   */
   nav ul {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
-  
+
+  nav li {
+    margin: auto;
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
 }
 
 @media (max-width: 480px) {
