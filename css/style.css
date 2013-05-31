@@ -329,6 +329,11 @@ h4 {
 
 @media (max-width: 480px) {
 
+.doublelogocontainer {
+  width: 150px;
+  height: auto;
+}
+
 .modal-portrait {
   display: none;
 }
@@ -359,10 +364,6 @@ h4 {
 }
 
 @media (max-width: 380px) {
-.doublelogocontainer {
-  width: 150px;
-  height: auto;
-}
     ul.entries li .overlaydark h3 {
     font-size: 16px;
   }
