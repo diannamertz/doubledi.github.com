@@ -320,6 +320,7 @@ h4 {
 
 @media (max-width: 600px) {  
 
+/*
   nav ul {
     margin-left: 0;
   }
@@ -328,6 +329,11 @@ h4 {
     margin-left: 0;
     margin-bottom: 10px;
   }
+  */
+  nav ul {
+    margin: auto;
+  }
+  
 }
 
 @media (max-width: 480px) {
