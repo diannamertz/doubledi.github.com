@@ -42,7 +42,7 @@ nav li {
   cursor: pointer;
 }
 
-.doublelogoposition {
+.doublelogocontainer {
   position: relative;
   width: 263px;
   height: 155px;
@@ -55,7 +55,7 @@ nav li {
   display: none;
 }
 
-.doublelogoposition:hover .doublelogo{
+.doublelogocontainer:hover .doublelogo{
   display: block;
 }
 
