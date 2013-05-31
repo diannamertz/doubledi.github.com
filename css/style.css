@@ -319,7 +319,7 @@ h4 {
   }
 }
 
-@media (max-width: 550px) {  
+@media (max-width: 600px) {  
   nav ul {
     margin-left: 0;
   }
@@ -360,15 +360,15 @@ h4 {
     padding-right: 0;
     padding-left: 0;
   }
+  .icondd img {
+    height:40px;
+    width:40px;
+  }
 }
 
 @media (max-width: 380px) {
     ul.entries li .overlaydark h3 {
     font-size: 16px;
-  }
-  .icondd img {
-    height:40px;
-    width:40px;
   }
 }
 
