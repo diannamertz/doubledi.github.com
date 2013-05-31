@@ -41,16 +41,17 @@ nav li {
   opacity: 0.4;
   cursor: pointer;
 }
-
+/*
 #doublelogo {
   background: url('/img/logo.png') no-repeat;
+
+}
+*/
+#doublelogo:hover {
+  background: url('/img/logo-hover.png') no-repeat;
   width: 263px;
   height: 155px;
   position: relative;
-}
-
-#doublelogo:hover {
-  background: url('/img/logo-hover.png') no-repeat;
 }
 
 
