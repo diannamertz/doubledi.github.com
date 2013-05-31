@@ -58,7 +58,6 @@ nav li {
   cursor: pointer;
 }
 
-
 .subfont {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
@@ -100,12 +99,17 @@ ul.entries li .overlaydark {
   background: rgba(0,0,0,0.5);
   vertical-align: middle;
   z-index: 20;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
   text-indent: 15px;
   overflow: hidden;
   white-space: nowrap; 
 }
+
+ul.entries li .overlaydark h3 {
+    font-size: 22px;
+    line-height: 30px;
+  }
 
 ul.entries li .overlaydark span {
   /*white-space: nowrap; */
