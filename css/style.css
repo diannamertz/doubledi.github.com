@@ -312,10 +312,6 @@ h4 {
     padding-left: 20px;
     padding-right: 20px;
   }
-
-  .doublelogocontainer {
-    width: 200px;
-}
 }
 
 @media (max-width: 600px) {  
@@ -327,6 +323,9 @@ h4 {
     margin-left: 0;
     margin-bottom: 10px;
   }
+  .doublelogocontainer {
+    width: 200px;
+}
 }
 
 @media (max-width: 480px) {
