@@ -42,23 +42,21 @@ nav li {
   cursor: pointer;
 }
 
-#doublelogoposition {
+.doublelogoposition {
   position: relative;
-}
-
-/*
-#doublelogo {
-  background: url('/img/logo.png') no-repeat;
-
-}
-*/
-#doublelogo:hover {
-  background: url('/img/logo-hover.png') no-repeat;
   width: 263px;
   height: 155px;
-  position: relative;
-  top:0;
-  left:0;
+}
+
+.doublelogo {
+  position:absolute;
+  top: 0;
+  left: 0;
+  display: none;
+}
+
+.doublelogoposition:hover .doublelogo{
+  display: block;
 }
 
 
