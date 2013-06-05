@@ -237,6 +237,8 @@ h4 {
 
 .hangright {
   float: right;
+  padding-left: 50px;
+  padding-top: 50px;
 }
 
 .hangright img {
@@ -309,6 +311,10 @@ h4 {
     font-size: 14px;
     line-height: 17px;
   }
+  .hangright {
+  padding-left: 0px;
+  padding-top: 0px;
+}
 }
 
 @media (max-width: 767px) {
