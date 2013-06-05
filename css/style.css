@@ -236,7 +236,7 @@ h4 {
 }
 
 .hangright {
-  margin-right:0;
+  float: right;
 }
 
 .js-video {
