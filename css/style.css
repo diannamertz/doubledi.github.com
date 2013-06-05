@@ -376,6 +376,8 @@ h4 {
   }
   .hangright {
   float: left;
+  width: 180px;
+  height: 66px;
 }
 }
 
