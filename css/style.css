@@ -26,6 +26,11 @@ h2 {
   color: #eeeeee;
 }
 
+h2:hover {
+  text-decoration: none;
+  color: #b22859;
+}
+
 h3 {
   margin: 5px 0;
   margin-bottom:0;
