@@ -30,7 +30,7 @@ h2:hover {
   color: #b22859;
 }
 
-a:h2:hover {
+.heading:hover {
   text-decoration: none;
 }
 
