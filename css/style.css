@@ -20,6 +20,11 @@ a:hover {
   color: #00adef;
 }
 
+h2 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 30px;
+}
+
 h3 {
   margin: 5px 0;
   margin-bottom:0;
